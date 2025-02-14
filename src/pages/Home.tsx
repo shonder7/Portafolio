@@ -58,7 +58,7 @@ const Home = () => {
                 className="relative overflow-hidden rounded-lg shadow-lg"
               >
                 <img
-                  src="https://i.imgur.com/saxR8z4.png"
+                  src="https://i.imgur.com/ELLF0b4.png"
                   alt="Diseño Gráfico"
                   className="w-full h-64 object-cover"
                 />
