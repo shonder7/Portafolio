@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const projects = [
   {
     id: 1,
-    title: 'Diseño de logo e ilustracion para muñecos de peluche wisart',
+    title: 'Diseño de logo e ilustración para muñecos de peluche wisart',
     description: 'Ilustraciones digitales inspiradas en la flora local',
     image: 'https://i.imgur.com/XNjKgkE.png',
     category: 'illustrations'
