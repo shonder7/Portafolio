@@ -60,7 +60,7 @@ const projectsData = {
       ]
     },
     6: {
-      title: 'Trabajos de diseño y troquel.',
+      title: 'Trabajos de diseño y troquel',
       description: '.',
       tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
       process: '',
