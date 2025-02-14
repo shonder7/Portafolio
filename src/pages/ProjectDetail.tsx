@@ -7,7 +7,7 @@ const projectsData = {
     2: {
       title: 'Golden Toad ',
       description: 'Proyecto de marca de ropa',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
         'https://i.imgur.com/Kg0iomh.png',
@@ -18,7 +18,7 @@ const projectsData = {
     8: {
       title: 'Etiquetas para productos',
       description: 'En este trabajo elaboré unas etiquetas para productos de cocina.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: 'El proceso comenzó con una extensa investigación con shon comiéndose el gallito',
       images: [
         'https://i.imgur.com/kk4qxeW.jpeg',
@@ -40,7 +40,7 @@ const projectsData = {
     4: {
       title: 'Restauración de fotos',
       description: '.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: 'El proceso comenzó con una extensa investigación con shon comiéndose el gallito',
       images: [
         'https://i.imgur.com/Q68YoKU.png',
