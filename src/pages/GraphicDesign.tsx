@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: 'Marca personal diseño gráfico ',
     description: '',
-    image: 'https://i.imgur.com/bTp8lu7.png',
+    image: 'https://i.imgur.com/Qn1nWs5.png',
     category: 'graphic-design'
   },
   {
