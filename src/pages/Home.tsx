@@ -10,7 +10,7 @@ const Home = () => {
       <section className="relative h-screen flex items-center">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://i.imgur.com/GqlcxV3.jpeg"
+            src="https://i.imgur.com/Qn1nWs5.png"
             alt="Background"
             className="w-full h-full object-cover"
           />
