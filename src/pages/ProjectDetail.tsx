@@ -34,7 +34,7 @@ const projectsData = {
       images: [
         'https://i.imgur.com/V0FqdVN.png',
         'https://i.imgur.com/V0FqdVN.png',
-        'https://i.imgur.com/T4tMivd.jpeg'
+        'https://i.imgur.com/WQdQtes.png'
       ]
     },
     4: {
