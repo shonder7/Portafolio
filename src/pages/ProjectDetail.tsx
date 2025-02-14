@@ -51,7 +51,7 @@ const projectsData = {
     5: {
       title: 'Trabajos de fotografía',
       description: '.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
         'https://i.imgur.com/WGJy5xw.png',
@@ -62,7 +62,7 @@ const projectsData = {
     6: {
       title: 'Trabajos de diseño y troquel',
       description: '.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
         'https://i.imgur.com/2tiJXzN.jpeg',
@@ -73,7 +73,7 @@ const projectsData = {
     7: {
       title: 'Tarjetas de regalo',
       description: '.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
         'https://i.imgur.com/7zAmovA.png',
@@ -84,7 +84,7 @@ const projectsData = {
     1: {
       title: 'Marca personal de diseño gráfico',
       description: '.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
         'https://i.imgur.com/khzTNdZ.jpeg',
@@ -95,7 +95,7 @@ const projectsData = {
     9: {
       title: 'Logofolio',
       description: '.',
-      tools: ['Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'],
+      tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
         'https://i.imgur.com/OFX9Wku.png',
