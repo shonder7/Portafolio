@@ -104,7 +104,7 @@ const projectsData = {
         'https://i.imgur.com/KUzmRNi.png',
         'https://i.imgur.com/jaZ9GD0.png',
         'https://i.imgur.com/iPdTggw.png',
-        'https://i.imgur.com/bvRqlqG.png',
+        'https://i.imgur.com/NqRwQtD.png',
         'https://i.imgur.com/YJwAaXt.png',
         'https://i.imgur.com/oYZlsZq.png',
         'https://i.imgur.com/qnhSIxe.png',
