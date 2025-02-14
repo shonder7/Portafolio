@@ -87,9 +87,9 @@ const projectsData = {
       tools: ['Adobe Illustrator', 'Adobe Photoshop'],
       process: '',
       images: [
-        'https://i.imgur.com/khzTNdZ.jpeg',
-        'https://i.imgur.com/ePB1hS6.png',
-        'https://i.imgur.com/bTp8lu7.png'
+        'https://i.imgur.com/bq7EVAj.png',
+        'https://i.imgur.com/WYl5blp.jpeg',
+        'https://i.imgur.com/Qn1nWs5.png'
       ]
     },
     9: {
