@@ -63,7 +63,7 @@ const projects = [
     id: 6,
     title: 'Trabajos de diseño y troquel ',
     description: '',
-    image: 'https://i.imgur.com/NokrvcZ.png',
+    image: 'https://i.imgur.com/D9svLoc.png',
     category: 'graphic-design'
   },
   
