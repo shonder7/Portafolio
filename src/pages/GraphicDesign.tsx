@@ -28,42 +28,42 @@ const projects = [
     id: 8,
     title: 'Etiquetas para producto',
     description: 'Diseño de empaque para producto sustentable',
-    image: 'https://i.imgur.com/kk4qxeW.jpeg',
+    image: 'https://i.imgur.com/OVTooP1.png',
     category: 'graphic-design'
   },
   {
     id: 7,
     title: 'Tarjetas de regalo ',
     description: '',
-    image: 'https://i.imgur.com/sNVvdG3.png',
+    image: 'https://i.imgur.com/T3Yyuo7.png',
     category: 'graphic-design'
   },
   {
     id: 3,
     title: 'Diseño Editorial',
     description: 'ilustración y diseño de paginas de libro',
-    image: 'https://i.imgur.com/T4tMivd.jpeg',
+    image: 'https://i.imgur.com/YFXtA7Z.png',
     category: 'graphic-design'
   },
   {
     id: 4,
     title: 'Restauración de fotografias ',
     description: '',
-    image: 'https://i.imgur.com/H84Zx9V.jpeg',
+    image: 'https://i.imgur.com/LabE9EQ.png',
     category: 'graphic-design'
   },
   {
     id: 5,
     title: 'Fotografias ',
     description: '',
-    image: 'https://i.imgur.com/0Me0x3C.jpeg',
+    image: 'https://i.imgur.com/1sIkJTh.png',
     category: 'graphic-design'
   },
   {
     id: 6,
     title: 'Trabajos de diseño y troquel ',
     description: '',
-    image: 'https://i.imgur.com/2tiJXzN.jpeg',
+    image: 'https://i.imgur.com/NokrvcZ.png',
     category: 'graphic-design'
   },
   
